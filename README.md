@@ -78,3 +78,5 @@ Errado.
 Se houver um árbitro ele pode ajudar nesta decisão. Se não houver maneira de sair do impasse, repete-se o ponto.
 #### Posso distrair o meu adversário?
 Não.
+#### Eu e o meu adversário gostamos de jogar com quinas a valer o dois pontos, podemos jogar com as nossas regras?
+Sim, desde que joguem à melhor de 3 (ou 5) e com sets até 11 pontos...
